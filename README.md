@@ -1,8 +1,21 @@
-# Hi! I'm Nabil 👋
+# Hi there! I'm Nabil 👋
 
 Welcome to my GitHub page! I'm a **Python Developer** and **DevOps Engineer** who loves building cool projects! 🐍⚙️
 
 When I'm not coding, you’ll probably find me lifting weights or playing video games! 🏋️‍♂️🎮
+
+### 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nabil-el-bajdi-51726b24b/) and perhaps create something great together! 🤝✨
 
