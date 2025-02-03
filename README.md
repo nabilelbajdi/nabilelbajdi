@@ -6,7 +6,7 @@ When I'm not coding, you’ll probably find me lifting weights or playing video 
 
 ### 🛠️ Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,react,go,docker,kubernetes,terraform,ansible,jenkins,postgresql,mysql,linux,bash,grafana,prometheus" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,react,django,tailwind,javascript,aws,docker,terraform,ansible,jenkins,postgresql,linux,grafana,prometheus" alt="Tools" />
 </p>
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nabil-el-bajdi-51726b24b/) and perhaps create something great together! 🤝✨
