@@ -4,7 +4,7 @@ AI Developer • DevOps Engineer • Problem Solver
 
 I craft elegant digital experiences that feel good to use, and better to build.
 
-Feel free to chec out my [personal portfolio](https://www.nabilelbajdi.com/) 😊
+Feel free to check out my [personal portfolio](https://www.nabilelbajdi.com/) 😊
 
 #### Tools & Technologies
 <p align="left">
