@@ -4,6 +4,8 @@ AI Developer • DevOps Engineer • Problem Solver
 
 I craft elegant digital experiences that feel good to use, and better to build.
 
+Feel free to chec out my [personal portfolio](https://www.nabilelbajdi.com/) 😊
+
 #### Tools & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,react,django,tailwind,javascript,aws,docker,terraform,ansible,jenkins,postgresql,linux,grafana,prometheus" alt="Tools" />
