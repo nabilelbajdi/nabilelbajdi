@@ -15,8 +15,7 @@ Want to collaborate? Have an idea? Or just want to chat?
 
 [Let’s connect on LinkedIn](https://www.linkedin.com/in/nabil-el-bajdi-51726b24b/)
 
-<!-- ![Nabil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilelbajdi&show_icons=true&hide_title=true&hide_rank=false&hide=issues&hide_border=true&theme=tokyonight)
-
+![Nabil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilelbajdi&show_icons=true&hide_title=true&hide_rank=false&hide=issues&hide_border=true&theme=tokyonight)
 
 <!--
 **nabilelbajdi/nabilelbajdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
