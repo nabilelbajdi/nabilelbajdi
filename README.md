@@ -1,7 +1,5 @@
 # Hey, I'm Nabil 👋
 
-AI/ML Engineer • DevOps Engineer
-
 I craft elegant digital experiences that feel good to use, and better to build.
 
 Feel free to check out my [personal portfolio](https://www.nabilelbajdi.com/) 😊
