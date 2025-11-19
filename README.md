@@ -1,6 +1,6 @@
 # Hey, I'm Nabil 👋
 
-AI Developer • DevOps Engineer • Problem Solver
+AI/ML Engineer • DevOps Engineer
 
 I craft elegant digital experiences that feel good to use, and better to build.
 
@@ -12,7 +12,6 @@ Feel free to check out my [personal portfolio](https://www.nabilelbajdi.com/) �
 </p>
 
 Want to collaborate? Have an idea? Or just want to chat?
-
 [Let’s connect on LinkedIn](https://www.linkedin.com/in/nabil-el-bajdi-51726b24b/)
 
 ![Nabil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilelbajdi&show_icons=true&hide_title=true&hide_rank=false&hide=issues&hide_border=true&theme=tokyonight)
