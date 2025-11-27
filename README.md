@@ -9,7 +9,6 @@ Feel free to check out my [personal portfolio](https://www.nabilelbajdi.com/) ðŸ
   <img src="https://skillicons.dev/icons?i=python,react,django,tailwind,javascript,aws,docker,terraform,ansible,jenkins,postgresql,linux,grafana,prometheus" alt="Tools" />
 </p>
 
-Want to collaborate? Have an idea? Or just want to chat?
 [Letâ€™s connect on LinkedIn](https://www.linkedin.com/in/nabil-el-bajdi-51726b24b/)
 
 ![Nabil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilelbajdi&show_icons=true&hide_title=true&hide_rank=false&hide=issues&hide_border=true&theme=tokyonight)
