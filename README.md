@@ -11,8 +11,6 @@ Feel free to check out my [personal portfolio](https://www.nabilelbajdi.com/) �
 
 [Let’s connect on LinkedIn](https://www.linkedin.com/in/nabil-el-bajdi-51726b24b/)
 
-![Nabil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilelbajdi&show_icons=true&hide_title=true&hide_rank=false&hide=issues&hide_border=true&theme=tokyonight)
-
 <!--
 **nabilelbajdi/nabilelbajdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +26,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Most used langauge: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilelbajdi&layout=compact&theme=radical)
 - GitHub streak [![GitHub Streak](https://streak-stats.demolab.com?user=nabilelbajdi&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)
+- Stats: ![Nabil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabilelbajdi&show_icons=true&hide_title=true&hide_rank=false&hide=issues&hide_border=true&theme=tokyonight)
 -->
