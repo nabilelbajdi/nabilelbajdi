@@ -1,15 +1,20 @@
 # Hey, I'm Nabil 👋
 
-I craft elegant digital experiences that feel good to use, and better to build.
+I craft elegant digital experiences that feel good to use and even better to build.
 
-Feel free to check out my [personal portfolio](https://www.nabilelbajdi.com/) 😊
+Check out my work → [nabilelbajdi.com](https://www.nabilelbajdi.com/)
 
-#### Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,django,tailwind,javascript,aws,docker,terraform,ansible,jenkins,postgresql,linux,grafana,prometheus" alt="Tools" />
-</p>
+---
 
-[Let’s connect on LinkedIn](https://www.linkedin.com/in/nabil-el-bajdi-51726b24b/)
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=python,javascript,react,tailwind,fastapi,postgresql,pytorch,docker,aws,terraform,linux,jenkins&perline=6" alt="Tech Stack" />
+
+---
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-el-bajdi-51726b24b/)
 
 <!--
 **nabilelbajdi/nabilelbajdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
